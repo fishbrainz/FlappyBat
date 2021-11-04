@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3273fae00d6d1084e80f3ef61dd072e1, type: 3}
+  m_Name: SFXData
+  m_EditorClassIdentifier: 
+  Description: Houses the SFX Audio Clips used in the game.
+  SFX_Flaps:
+  - {fileID: 8300000, guid: d179a8a0d0f27904c848ffb990480f38, type: 3}
+  - {fileID: 8300000, guid: cca6b33486833244b8b40a5a7bb19980, type: 3}
+  - {fileID: 8300000, guid: e914464017a30824b80bca27aa2dd1c6, type: 3}
+  SFX_Collide:
+  - {fileID: 8300000, guid: e399375a223d3d5418e4d9fdd7c8fadb, type: 3}
+  - {fileID: 8300000, guid: 6af052294c26cbd428b4eac527640a7f, type: 3}
+  - {fileID: 8300000, guid: 7458f46929f47474e8dc4b6d80fa8340, type: 3}
+  SFX_GameOver:
+  - {fileID: 8300000, guid: 83eb3ead5051d2244a52c66f1662f53e, type: 3}
+  - {fileID: 8300000, guid: bb651de8702d72b4d8dc8e794456d5d4, type: 3}
